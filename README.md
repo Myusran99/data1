@@ -1,1 +1,1 @@
-# data1
+web3.eth.accounts.create([entropy]);
